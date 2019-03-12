@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.motion_05_imagefiltergit )
+        setContentView(R.layout.motion_05_imagefilter)
 
 
 
